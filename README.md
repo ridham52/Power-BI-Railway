@@ -219,3 +219,5 @@ The highest revenue came from Standard class tickets ($592,522), while First Cla
 
 - This comprehensive dashboard provides valuable insights into railway operations, helping companies make data-driven decisions to improve efficiency and customer satisfaction.
 
+  ### Dashboard Screan Shot: [Railway.pdf](https://github.com/user-attachments/files/18808803/Railway_SS.pdf)
+
